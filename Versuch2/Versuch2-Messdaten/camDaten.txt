@@ -1,0 +1,11 @@
+frame width: 800.0
+frame height: 600.0
+--------------------------------
+brightness: 80.0
+contrast: 32.0
+saturation: 32.0
+--------------------------------
+gain: 16.0
+exposure: -7.0
+--------------------------------
+white balance: -1.0
